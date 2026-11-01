@@ -1,0 +1,10 @@
+preview*.jpg
+preview*.png
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.vercel/
+.DS_Store
+Thumbs.db
